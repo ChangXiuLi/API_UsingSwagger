@@ -4,7 +4,8 @@
 2. To utilize Swagger UI to generate API documentation
 3. To use an API contract to create a working RESTful API
 
-### Instruction to start off: npm start 
+### Instruction to start off: 
+- npm start 
 
 ### 4 main paths created, and the commands are as follows:
 
